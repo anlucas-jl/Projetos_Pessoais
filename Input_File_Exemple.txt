@@ -1,0 +1,9 @@
+000TESTE DE ARQUIVO DE ENTRADA             LOTE2098            
+001ANDERSON JOSE LUCAS                     31121993
+001GERALD DI RIVIA                         15091972
+001JOÃO DA SILVA                           17121940
+001CLAUDETE VIANNA GETULIO                 20092000
+001TESTE                                   14122007
+001NATHAN DRAKE                            05092006
+001LARA CROFT                              12121998
+002FIM DO ARQUIVO
